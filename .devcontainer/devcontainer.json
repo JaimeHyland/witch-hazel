@@ -31,10 +31,10 @@
             "**/core.mongo*": true,
             "**/core.python*": true
           },
-          "editor.defaultFormatter": "HookyQR.beautify",
+          "editor.defaultFormatter": null,
           "python.linting.pycodestyleEnabled": true,
           "python.terminal.activateEnvironment": false,
-          "workbench.iconTheme": "none"
+          "workbench.iconTheme": null
         }
       }
     },

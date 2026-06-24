@@ -1,11 +1,19 @@
+# Core code
 core.Microsoft*
 core.mongo*
 core.python*
+
+# Virtual environments
+venv/
 .venv/
+
+# Secrets
 .env
 env.py
+creds.json
+
+# Miscellaneous
 __pycache__/
 *.py[cod]
 node_modules/
 .github/
-creds.json
